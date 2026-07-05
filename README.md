@@ -6,10 +6,7 @@
 
 A bold, colorful developer portfolio built from the ground up with React, Vite, and React Router — no templates, no page builders.
 
-[![React](https://img.shields.io/badge/React-18.3-4ADEDE?style=flat-square&logo=react&logoColor=white)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-5.4-FF7A45?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![React Router](https://img.shields.io/badge/React_Router-6-B98CFF?style=flat-square&logo=reactrouter&logoColor=white)](https://reactrouter.com)
-[![License](https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square)](#license)
+
 
 [Live Demo](https://abhijeet-gadegone-1509.netlify.app/)  · [Connect on LinkedIn](https://linkedin.com/in/abhijeet-gadegone-108a82214)
 
